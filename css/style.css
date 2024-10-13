@@ -1,0 +1,64 @@
+p0 {
+    font-size: larger;
+}
+
+#font1 {
+    font-size: x-large;
+}
+
+p {
+    text-indent: 50px;
+  }
+
+#hpl1{
+    color: rgb(4, 84, 204);
+    background-color: transparent;
+    text-decoration: none;
+}
+
+  .kanit-light {
+    font-family: "Kanit", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .kanit-regular{
+    font-family: "Kanit", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  #md99 {
+    font-family: "Kanit", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  #font2{
+    font-size: 40px;
+    font-family: "Kanit", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+
+  body{
+    background-image: url(../images/TheJOJOLandsPV-1024x576.jpeg);
+  }
+
+  .textbg{
+    background-color: rgb(231, 236, 238);
+    inset: 0 0 blur-radius spread-radius;
+  }
+
+  .border-right {
+    border-right: 2px solid black;
+}
+
+.button1{
+    background-color: black;
+    
+}
+
+.button2{
+    text-decoration: none;
+    color: white;
+}
